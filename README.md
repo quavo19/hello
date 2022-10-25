@@ -12,7 +12,7 @@ Microverse Day2 project work
 
 👤 Akite Donald
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/quavo19)
 
 
 👤 **Author2**
