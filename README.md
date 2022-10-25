@@ -15,10 +15,6 @@ Microverse Day2 project work
 - GitHub: [@githubhandle](https://github.com/quavo19)
 
 
-👤 **Author2**
-
-- GitHub: [@githubh](https://github.com/quavo19)
-
 
 ## Show your support
 
